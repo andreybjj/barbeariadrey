@@ -1,8 +1,17 @@
 {
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "installCommand": "npm install",
-  "cleanUrls": true,
-  "trailingSlash": false
+  "name": "barbeariadrey",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "barbeariadrey",
+      "version": "1.0.0",
+      "dependencies": {},
+      "devDependencies": {},
+      "engines": {
+        "node": "20.x"
+      }
+    }
+  }
 }

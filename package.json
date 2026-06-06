@@ -1,15 +1,10 @@
-{
-  "name": "barbeariadrey",
-  "version": "1.0.0",
-  "private": true,
-  "type": "module",
-  "engines": {
-    "node": ">=20"
-  },
-  "scripts": {
-    "build": "node scripts/build.mjs",
-    "preview": "node scripts/preview.mjs"
-  },
-  "dependencies": {},
-  "devDependencies": {}
-}
+node_modules
+dist
+.vercel
+.env
+.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.zip
